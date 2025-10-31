@@ -4,6 +4,8 @@ Plantilla web moderna, atractiva y completamente responsiva para una **heladerí
 
 ---
 
+## [🍦 Demo del Templante](https://boyermarketing.github.io/Heladeria-Artesanal-Plantilla-Web-Responsiva/)
+
 ## ✨ Características principales
 
 - 🌈 **Diseño limpio y colorido** con tonos pastel (rosa, celeste, vainilla).
